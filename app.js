@@ -32,6 +32,11 @@ const CARDS = [
     icon: "ri-mail-fill",
     link: "https://mail.google.com/mail/u/0/#inbox",
   },
+  {
+    name: "Shinyzenith.xyz",
+    icon: "ri-global-fill",
+    link: "https://shinyzenith.xyz",
+  },
 ];
 
 /* -------------------------------------------------------- */
