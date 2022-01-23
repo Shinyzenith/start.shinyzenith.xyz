@@ -37,6 +37,11 @@ const CARDS = [
     icon: "ri-global-fill",
     link: "https://shinyzenith.xyz",
   },
+  {
+    name: "Hostinger",
+    icon: "ri-server-fill",
+    link: "https://hpanel.hostinger.com/",
+  },
 ];
 
 /* -------------------------------------------------------- */
